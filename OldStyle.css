@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+    color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1 {
+    background-color: cadetblue;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+    background-color: aqua;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+}
